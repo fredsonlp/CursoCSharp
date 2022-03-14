@@ -1,0 +1,15 @@
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\bin\Debug\net6.0\CondicaoifElse.exe
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\bin\Debug\net6.0\CondicaoifElse.deps.json
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\bin\Debug\net6.0\CondicaoifElse.runtimeconfig.json
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\bin\Debug\net6.0\CondicaoifElse.dll
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\bin\Debug\net6.0\CondicaoifElse.pdb
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\obj\Debug\net6.0\CondicaoifElse.csproj.AssemblyReference.cache
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\obj\Debug\net6.0\CondicaoifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\obj\Debug\net6.0\CondicaoifElse.AssemblyInfoInputs.cache
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\obj\Debug\net6.0\CondicaoifElse.AssemblyInfo.cs
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\obj\Debug\net6.0\CondicaoifElse.csproj.CoreCompileInputs.cache
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\obj\Debug\net6.0\CondicaoifElse.dll
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\obj\Debug\net6.0\refint\CondicaoifElse.dll
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\obj\Debug\net6.0\CondicaoifElse.pdb
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\obj\Debug\net6.0\CondicaoifElse.genruntimeconfig.cache
+C:\Users\PROGRAMACAOF\Documents\Cursos\CSharp\CondicaoifElse\obj\Debug\net6.0\ref\CondicaoifElse.dll
